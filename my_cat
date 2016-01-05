@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Cat</title>
+</head>
+<body>
+  <h1>My Cat</h1>
+  <h2>Is the worst</h2>
+
+    <h2>His Favorite Toys</h2>
+      <ul>
+        <li>Stuffed mouse</li>
+        <li>String toy</li>
+        <li>Hands and feet</li>
+      </ul>
+    <h2>His favorite food in order</h2>
+      <ol>
+        <li>Dry food</li>
+        <li>Grass</li>
+      </ol>
+
+    <h2>His favorite activities</h2>
+      <ul>
+        <li>Sleeping</li>
+        <li>Eating</li>
+        <li>Scratching and biting</li>
+      </ul>
+
+<p>
+  Today my cat ate his second favorite food, grass. He then came inside and threw up on the carpet before I could move him to the wood floor.
+</p>
+  </body>
+</html>
