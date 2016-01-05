@@ -16,18 +16,21 @@
     <h2>His favorite food in order</h2>
       <ol>
         <li>Dry food</li>
+          <img src="http://lorempixel.com/400/200/" alt="Here is dry food">
         <li>Grass</li>
+          <img src="http://lorempixel.com/400/200/" alt "This is grass">
       </ol>
 
     <h2>His favorite activities</h2>
       <ul>
-        <li>Sleeping</li>
+        <a href="http://www.google.com">
+        <li>Sleeping</li></a>
         <li>Eating</li>
         <li>Scratching and biting</li>
       </ul>
 
 <p>
-  Today my cat ate his second favorite food, grass. He then came inside and threw up on the carpet before I could move him to the wood floor.
+  Today my cat ate his <em>second</em> favorite food, grass. He then came inside and <strong>threw up on the carpet</strong> before I could move him to the wood floor.
 </p>
   </body>
 </html>
